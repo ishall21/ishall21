@@ -11,8 +11,8 @@
 > I'm a Filipino Network Engineer from Philippines.
 > With 13+ years of hands-on experience:
 
-- 🎯 My expertise: **Network, Security, and Redundancy Solutions with CISCO and MIKROTIK**
-- 💻 I also excel in: **Graphic Design**
+- 🎯 My expertise **Network, Security, and Redundancy Solutions with CISCO and MIKROTIK**
+- 💻 I also excel in **Graphic Design**
 - 🌱 I’m currently learning **React.js,Node.js,Python,Java Script, PHP,HTML,CSS**
 
 
