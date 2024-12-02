@@ -127,7 +127,7 @@
 - [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/80dd022b-b671-41b4-9aa5-ea05208f90cf/public_url)
 - [Microsoft Certified: Security, Compliance, and Identity Fundamentals](https://www.credly.com/badges/d421b608-789d-4185-9a82-b1e6b0b2e8be/public_url)
 - [Microsoft Certified: Azure Data Fundamentals](https://www.credly.com/badges/dbc71e69-fb2e-4434-95f9-c02e4e23c517/public_url)
-- See all my Certifications here [Credly](https://www.credly.com/users/larrymahumot)
+- You can see all my certifications here on [Credly](https://www.credly.com/users/larrymahumot)
 
 <p align="left">
   <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="125" height="125">
@@ -155,7 +155,7 @@
 
 ### :octocat: Profile Views
 
-[![PRs Welcome](https://komarev.com/ghpvc/?username=larrymahumot&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/ishall21)
+[![PRs Welcome](https://komarev.com/ghpvc/?username=ishall21&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/ishall21)
 
 ## <img src="https://img.icons8.com/nolan/26/github.png"/> Github Stats
 
