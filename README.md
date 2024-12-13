@@ -121,7 +121,10 @@
 <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
 </p>
 
-##  **My Certifications 🏅**
+<!---##  **My Certifications **--->
+<details>
+    <summary>🏅<b>My Certifications</b></summary><br/>
+
 - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/34007aac-270b-415b-9cf1-d244792efd3d/public_url)
 - [Microsoft Certified: Azure Administrator Associate](https://www.credly.com/badges/68f70689-6b23-4d5c-b5d5-8768b47c1a0c/public_url)
 - [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/80dd022b-b671-41b4-9aa5-ea05208f90cf/public_url)
@@ -135,6 +138,8 @@
   <img src="https://images.credly.com/size/340x340/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png" width="125" height="125">
   <img src="https://images.credly.com/size/340x340/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" width="125" height="125">
 </p>
+
+</details>
 
 ##  **My Achievements 🏆**
 - [AWS Academy Graduate - AWS Academy Cloud Architecting](https://www.credly.com/badges/b2d7d935-76d1-4136-ae19-88a1e693bac1/public_url)
