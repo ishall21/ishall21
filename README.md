@@ -23,7 +23,7 @@
 
 [![Spotify](https://spotify-now-playing-1.vercel.app/api/spotify-playing)](https://open.spotify.com/user/21yk3oaoukqj62nfwxwhv26fq)
 
-## <img src="https://img.icons8.com/nolan/25/computer.png"/> Technologies
+## <img src="https://github.com/ishall21/ishall21/blob/main/computer-logo.png"/> Technologies
 <kbd>
    <kbd>Front-end</kbd>
     <br>
