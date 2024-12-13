@@ -10,12 +10,11 @@
 
 > I'm a Filipino Network Engineer from Philippines. With 13+ years of hands-on experience:
 
-- 🎯 My expertise in **Network, Security, Routing, Switching and Redundancy Solutions with CISCO and MIKROTIK**
-- 💻 I also excel in **Graphic Design**
-- 🌱 I’m currently learning **React.js,Node.js,Python,Java Script, PHP,HTML,CSS**
-
-
-- 📫 How to reach me **larrymahumot@gmail.com**
+- 🎯 Currently working on **networking, security, routing, switching, and redundancy solutions with Cisco and MikroTik technologies.**
+- 👨‍💻 Passionate about optimizing systems and networks for high availability and performance.
+- 🔍 I specialize in troubleshooting, monitoring, and maintaining enterprise-grade networks and Linux servers.
+- 💡  Always learning, experimenting, and automating solutions to improve system efficiency and reliability.
+- 🔗 Currently focused on cloud technologies, automation scripting, and security best practices.
 - 🍀 My portfolio **https://ishall21.github.io**
 
 ## 🎧 Spotify Playing
