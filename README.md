@@ -163,3 +163,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishall21&theme=vue&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishall21&layout=compact)
+
+
+⏳💻🎯 by [Larry Bert Mahumot](https://ishall21.com)
