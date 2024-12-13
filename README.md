@@ -158,7 +158,6 @@
 
 [![PRs Welcome](https://komarev.com/ghpvc/?username=ishall21&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/ishall21)
 
-<!---
-## <img src="https://img.icons8.com/nolan/26/github.png"/> Github Stats ---->
 
+## <img src="https://github.com/ishall21/github.png"/> Github Stats 
 [![Ishall21 GitHub stats](https://github-readme-stats.vercel.app/api?username=ishall21)](https://github.com/ishall21/github-readme-stats)
