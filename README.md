@@ -165,4 +165,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishall21&layout=compact)
 
 
-⏳💻🎯 by [Larry Bert Mahumot](https://github.com/ishall21.com)
+⏳💻🎯 by [Larry Bert Mahumot](https://github.com/ishall21)
