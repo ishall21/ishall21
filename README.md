@@ -15,7 +15,7 @@
 - 🔍 I specialize in troubleshooting, monitoring, and maintaining enterprise-grade networks and Linux servers.
 - 💡  Always learning, experimenting, and automating solutions to improve system efficiency and reliability.
 - 🔗 Currently focused on cloud technologies, automation scripting, and security best practices.
-- 🍀 My portfolio **https://ishall21.github.io**
+- 📚 My portfolio **https://ishall21.github.io**
 - 🏆 You can see all my certifications here on [Credly](https://www.credly.com/users/larrymahumot)
 ## 🎧 Spotify Playing
 
