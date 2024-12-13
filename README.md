@@ -154,6 +154,8 @@
         <img src="https://images.credly.com/size/340x340/images/ae2f5bae-b110-4ea1-8e26-77cf5f76c81e/GCC_badge_IT_Support_1000x1000.png" width="125" height="125">
          <img src="https://images.credly.com/size/340x340/images/a850079a-75bb-41e1-adae-dedfabcf597c/Professional_Certificate_-_IBM_Cybersecurity_Analyst.png" width="125" height="125">
 
+<!-- markdownlint-disable MD033 -->
+
 ### :octocat: Profile Views
 
 [![PRs Welcome](https://komarev.com/ghpvc/?username=ishall21&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/ishall21)
@@ -164,5 +166,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishall21&layout=compact)
 
+
+<!-- markdownlint-enable MD033 -->
 
 ⏳💻🎯 by [Larry Bert Mahumot](https://github.com/ishall21)
