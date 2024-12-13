@@ -158,9 +158,7 @@
 
 [![PRs Welcome](https://komarev.com/ghpvc/?username=ishall21&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/ishall21)
 
-<details>
-    <summary>&#9889 <b>GitHub Stats</b></summary><br/>
+<!---
+## <img src="https://img.icons8.com/nolan/26/github.png"/> Github Stats ---->
 
-[![Ishal21 Github Stats](https://readme-stats.ishall21.com/api?username=ishall21&show_icons=true&count_private=true)](https://github.com/wishall21/github-readme-stats) [![Top Language](https://readme-stats.ishall21.com/api/top-langs?username=ishall21&layout=compact)](https://github.com/ishall21ga/github-readme-stats)
-
-</details>
+[![Ishall21 GitHub stats](https://github-readme-stats.vercel.app/api?username=ishall21)](https://github.com/ishall21/github-readme-stats)
