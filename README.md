@@ -16,7 +16,7 @@
 - 💡  Always learning, experimenting, and automating solutions to improve system efficiency and reliability.
 - 🔗 Currently focused on cloud technologies, automation scripting, and security best practices.
 - 🍀 My portfolio **https://ishall21.github.io**
-
+- 🏆 You can see all my certifications here on [Credly](https://www.credly.com/users/larrymahumot)
 ## 🎧 Spotify Playing
 
 [![Top 50 Philippines](https://img.shields.io/badge/Top%2050%20Philippines-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZEVXbNBz9cRCSFkY) [![Top 2021](https://img.shields.io/badge/Top%20%202021-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/06S64oWn7uGnfGrwjh5IWb) [![Love Song & Chill](https://img.shields.io/badge/Love%20Song%20&%20Chill-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/4QuJ2DbcTe7R8lzqfNXz7v) [![Hot Hits Philippines](https://img.shields.io/badge/Hot%20Hits%20Philippines-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1DXcZQSjptOQtk)
@@ -127,7 +127,6 @@
 - [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/80dd022b-b671-41b4-9aa5-ea05208f90cf/public_url)
 - [Microsoft Certified: Security, Compliance, and Identity Fundamentals](https://www.credly.com/badges/d421b608-789d-4185-9a82-b1e6b0b2e8be/public_url)
 - [Microsoft Certified: Azure Data Fundamentals](https://www.credly.com/badges/dbc71e69-fb2e-4434-95f9-c02e4e23c517/public_url)
-- You can see all my certifications here on [Credly](https://www.credly.com/users/larrymahumot)
 
 <p align="left">
   <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="125" height="125">
