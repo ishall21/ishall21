@@ -162,8 +162,10 @@
 
 <details>
     <summary>🏆<b>My Achievements</b></summary><br/>
-    [![trophy](https://github-profile-trophy.vercel.app/?username=ishall21)](https://github.com/ishall21/github-profile-trophy)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ishall21)](https://github.com/ishall21/github-profile-trophy)
+
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=ishall21)
 
 </details>
 
