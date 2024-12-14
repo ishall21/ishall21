@@ -49,11 +49,11 @@
     <kbd>Preferred IDEs & Tools</kbd>
     <br>
     <img width="25px" src="https://img.icons8.com/color/42/000000/visual-studio.png" />
-    <img width="25px" src="https://img.icons8.com/color/42/000000/virtualbox.png" />
     <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
     <img width="25px" src="https://github.com/termux/termux-app/raw/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" />
-   <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+    <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
     <img width="25px" src="https://img.icons8.com/fluent/42/000000/sublime-text.png">
+    <img width="25px" src="https://img.icons8.com/color/42/000000/virtualbox.png" />
     <img width="25px" src="https://img.icons8.com/color/42/000000/old-vmware-logo.png" />
     <img width="25px" src="https://img.icons8.com/color/42/000000/proxmox.png" />
 </kbd>
