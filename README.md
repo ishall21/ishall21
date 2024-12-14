@@ -30,16 +30,15 @@
     <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
     <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
     <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+    <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
     <img width="25px" src="https://techstack-generator.vercel.app/python-icon.svg" />
     <img width="25px" src="https://techstack-generator.vercel.app/js-icon.svg" />
   </kbd>
 <kbd>
     <kbd>Back-end</kbd>
-    <br>
-    <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-    <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+    <br>    
     <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-    <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" />
+    <img width="25px" src="https://img.icons8.com/color/42/000000/nginx.png" />    
   </kbd>
 <kbd>
     <kbd>Database</kbd>
