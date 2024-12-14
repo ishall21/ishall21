@@ -25,11 +25,11 @@
 
 ## <img src="https://github.com/ishall21/ishall21/blob/main/computer-logo.png"/> My Skills
 <kbd>
-   <kbd>Front-end</kbd>
+   <kbd>Languages</kbd>
     <br>
     <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
     <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
-    <img width="25px" src="https://techstack-generator.vercel.app/sass-icon.svg" /> 
+    <img width="25px" src="https://techstack-generator.vercel.app/python-icon.svg" />
     <img width="25px" src="https://techstack-generator.vercel.app/js-icon.svg" />
   </kbd>
   <kbd>
@@ -44,7 +44,6 @@
     <kbd>Database</kbd>
     <br>
    <img width="25px" src="https://techstack-generator.vercel.app/mysql-icon.svg" />
-   <img width="25px" src="https://img.icons8.com/color/42/000000/sqlite.svg" />
   </kbd>
 
   <kbd>
@@ -57,7 +56,7 @@
   <kbd>
     <kbd>Terminal Scripts</kbd>
     <br>
-    <img width="25px" src="https://techstack-generator.vercel.app/python-icon.svg" />
+    
     <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
     <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
   </kbd>
