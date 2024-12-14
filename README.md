@@ -44,6 +44,7 @@
     <kbd>Database</kbd>
     <br>
    <img width="25px" src="https://techstack-generator.vercel.app/mysql-icon.svg" />
+   <img width="25px" src="https://img.icons8.com/color/42/000000/sqlite.png" />
   </kbd>
 
   <kbd>
