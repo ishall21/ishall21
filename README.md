@@ -102,8 +102,18 @@
     <img width="25px" src="https://img.icons8.com/color/42/000000/amazon-web-services.png" />
     <img width="25px" src="https://img.icons8.com/color/42/000000/google-cloud.png" />
     <img width="25px" src="https://img.icons8.com/color/42/000000/azure-1.png" />
-    <img width="25px" src="https://img.icons8.com/color/42/000000/firebase.png" alt="firebase"/>
+    <img width="25px" src="https://img.icons8.com/color/42/000000/firebase.png" />
     <img width="25px" src="https://img.icons8.com/color/42/000000/heroku.png" />
+  </kbd>
+  
+  <kbd>
+    <kbd>Version Control & CI/CD</kbd>
+    <br>
+    <img width="25px" src="https://img.icons8.com/color/42/000000/git.png" />
+    <img width="25px" src="https://img.icons8.com/color/42/000000/github.png" />
+    <img width="25px" src="https://img.icons8.com/color/42/000000/gitlab.png" />
+    <img width="25px" src="https://img.icons8.com/color/42/000000/docker.png" />
+    <img width="25px" src="https://img.icons8.com/color/42/000000/jenkins.png" />
   </kbd>
 
   <kbd>
