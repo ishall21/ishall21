@@ -97,12 +97,17 @@
     <img width="25px" src="https://img.icons8.com/color/42/000000/adobe-premiere-pro--v1.png" />
   </kbd>
   <kbd>
-    <kbd>Cloud Computing</kbd>
+    <kbd>Cloud & Hosting</kbd>
     <br>
+    <img width="25px" src="https://img.icons8.com/color/42/000000/amazon-web-services.png" />
     <img width="25px" src="https://techstack-generator.vercel.app/aws-icon.svg" />
     <img width="25px" src="https://img.icons8.com/color/42/000000/google-cloud.png" />
     <img width="25px" src="https://img.icons8.com/color/42/000000/azure-1.png" />
   </kbd>
+
+
+
+
   <kbd>
     <kbd>Virtualization</kbd>
     <br>
