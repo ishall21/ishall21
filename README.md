@@ -161,11 +161,9 @@
 </details>
 
 <details>
-    <summary>🏆<b>My Achievements</b></summary><br/>
+    <summary>🏆<b>GitHub Awards</b></summary><br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ishall21)](https://github.com/ishall21/github-profile-trophy)
-
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=ishall21)
+[![Github Trophy](https://github-profile-trophy.vercel.app/?username=ishall21)](https://github.com/ishall21/github-profile-trophy)
 
 </details>
 
