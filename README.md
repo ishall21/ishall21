@@ -170,14 +170,13 @@
 <!---
 ![Ishall21 GitHub stats](https://github-readme-stats.vercel.app/api?username=ishall21&theme=default&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishall21&layout=compact)--->
-
 <div align="center">
         <h2 align="center" class="section-heading"></h2>
         <p></p>
         <table align="center" width="100%" height="100%" >
             <tr>
                 <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishall21&theme=github_dark" alt="Ishall21 GitHub Stats"/></td>
-                <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=ishall21&theme=merko" alt="Ishall21 Contribution Streak"/></td>
+                <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=ishall21&theme=ads-juicy-fresh" alt="Ishall21 Contribution Streak"/></td>
             </tr>
         </table>
         <table align="center" width="100%" height="100%" >
