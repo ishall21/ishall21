@@ -102,6 +102,7 @@
     <img width="25px" src="https://img.icons8.com/color/42/000000/amazon-web-services.png" />
     <img width="25px" src="https://img.icons8.com/color/42/000000/google-cloud.png" />
     <img width="25px" src="https://img.icons8.com/color/42/000000/azure-1.png" />
+    <img width="25px" src="https://img.icons8.com/color/42/000000/firebase.png" />
     <img width="25px" src="https://img.icons8.com/color/42/000000/heroku.png" />
   </kbd>
 
