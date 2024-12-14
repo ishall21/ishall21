@@ -29,10 +29,11 @@
     <br>
     <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
     <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
+    <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
     <img width="25px" src="https://techstack-generator.vercel.app/python-icon.svg" />
     <img width="25px" src="https://techstack-generator.vercel.app/js-icon.svg" />
   </kbd>
-  <kbd>
+<kbd>
     <kbd>Back-end</kbd>
     <br>
     <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
@@ -45,15 +46,7 @@
     <br>
    <img width="25px" src="https://techstack-generator.vercel.app/mysql-icon.svg" />
   </kbd>
-
-  <kbd>
-    <kbd>Apps</kbd>
-    <br>
-    <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-    <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-    <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-  </kbd>
-  <kbd>
+<kbd>
     <kbd>Preferred IDEs & Tools</kbd>
     <br>
     <img width="25px" src="https://img.icons8.com/color/42/000000/visual-studio.png" />
@@ -64,29 +57,29 @@
     <img width="25px" src="https://img.icons8.com/fluent/42/000000/sublime-text.png">
     <img width="25px" src="https://img.icons8.com/color/42/000000/old-vmware-logo.png" />
     <img width="25px" src="https://img.icons8.com/color/42/000000/proxmox.png" />
-  </kbd>
+</kbd>
   <br><br>
-  <kbd>
+<kbd>
     <kbd>OS</kbd><br>
     <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
     <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
     <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
-  </kbd>
-  <kbd>
+</kbd>
+<kbd>
     <kbd>Library/FrameWorks</kbd>
     <br>
     <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
     <img width="25px" src="https://techstack-generator.vercel.app/react-icon.svg" />
     <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-  </kbd>
-  <kbd>
+</kbd>
+<kbd>
     <kbd>Adobe Tools</kbd>
     <br>
     <img width="25px" src="https://img.icons8.com/color/42/000000/adobe-photoshop.png" />
     <img width="25px" src="https://img.icons8.com/color/42/000000/adobe-illustrator.png" />
     <img width="25px" src="https://img.icons8.com/color/42/000000/adobe-premiere-pro--v1.png" />
-  </kbd>
-  <kbd>
+</kbd>
+<kbd>
     <kbd>Cloud & Hosting</kbd>
     <br>
     <img width="25px" src="https://img.icons8.com/color/42/000000/amazon-web-services.png" />
@@ -94,8 +87,8 @@
     <img width="25px" src="https://img.icons8.com/color/42/000000/azure-1.png" />
     <img width="25px" src="https://img.icons8.com/color/42/000000/firebase.png" />
     <img width="25px" src="https://img.icons8.com/color/42/000000/heroku.png" />
-  </kbd>
-  <kbd>
+</kbd>
+<kbd>
     <kbd>Version Control & CI/CD</kbd>
     <br>
     <img width="25px" src="https://img.icons8.com/color/42/000000/git.png" />
@@ -104,7 +97,7 @@
     <img width="25px" src="https://img.icons8.com/color/42/000000/docker.png" />
     <img width="25px" src="https://img.icons8.com/color/42/000000/jenkins.png" />
     <img width="25px" src="https://img.icons8.com/color/42/000000/kubernetes.png" />
-  </kbd>
+</kbd>
   <br/>
   <br/>
 
