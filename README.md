@@ -54,20 +54,13 @@
     <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
   </kbd>
   <kbd>
-    <kbd>Terminal Scripts</kbd>
-    <br>
-    
-    <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-    <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
-  </kbd>
-  <kbd>
     <kbd>Preferred IDEs & Tools</kbd>
     <br>
     <img width="25px" src="https://img.icons8.com/color/42/000000/visual-studio.png" />
     <img width="25px" src="https://img.icons8.com/color/42/000000/virtualbox.png" />
     <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
     <img width="25px" src="https://github.com/termux/termux-app/raw/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" />
-    <img width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/512px-Repl.it_logo.svg.png">
+   <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
     <img width="25px" src="https://img.icons8.com/fluent/42/000000/sublime-text.png">
     <img width="25px" src="https://img.icons8.com/color/42/000000/old-vmware-logo.png" />
     <img width="25px" src="https://img.icons8.com/color/42/000000/proxmox.png" />
