@@ -167,9 +167,28 @@
 
 
 ## <img src="https://github.com/ishall21/ishall21/blob/main/github-logo.png"/> Github Stats 
+<!---
 ![Ishall21 GitHub stats](https://github-readme-stats.vercel.app/api?username=ishall21&theme=default&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishall21&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishall21&layout=compact)--->
 
+<div align="center">
+        <h2 align="center" class="section-heading"> 📋 Github Stats</h2>
+        <p>Peek into my GitHub stats to see how I juggle code, coffee, and collaborations! Dive in to check out the milestones of my digital journey!</p>
+        <table align="center" width="100%" height="100%" >
+            <tr>
+                <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishall21&theme=github_dark" alt="Ishall21 GitHub Stats"/></td>
+                <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=ishall21&theme=merko" alt="Ishall21 Contribution Streak"/></td>
+            </tr>
+        </table>
+        <table align="center" width="100%" height="100%" >
+            <tr>
+                <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ishall21&theme=github_dark" alt="Ishall21 GitHub Stats"/></td>
+                <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ishall21&theme=github_dark&utcOffset=10" alt="Ishall21 GitHub Stats"/>
+                <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ishall21&theme=github_dark" alt="Ishall21 GitHub Stats"/></td>
+                <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ishall21&theme=github_dark" alt="Ishall21 GitHub Stats"/></td>
+            </tr>
+        </table>
+    </div>
 
 
 ⏳💻🎯 by [Larry Bert Mahumot](https://github.com/ishall21)
