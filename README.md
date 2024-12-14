@@ -83,12 +83,6 @@
     <img width="25px" src="https://techstack-generator.vercel.app/react-icon.svg" />
     <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
   </kbd>
-<kbd>
-    <kbd>Container</kbd>
-    <br>
-    <img width="25px" src="https://techstack-generator.vercel.app/kubernetes-icon.svg" />
-    <img width="25px" src="https://techstack-generator.vercel.app/docker-icon.svg" />
-  </kbd>
   <kbd>
     <kbd>Adobe Tools</kbd>
     <br>
@@ -114,8 +108,8 @@
     <img width="25px" src="https://img.icons8.com/color/42/000000/gitlab.png" />
     <img width="25px" src="https://img.icons8.com/color/42/000000/docker.png" />
     <img width="25px" src="https://img.icons8.com/color/42/000000/jenkins.png" />
+    <img width="25px" src="https://img.icons8.com/color/42/000000/kubernetes.png" />
   </kbd>
-
   <kbd>
     <kbd>Virtualization</kbd>
     <br>
