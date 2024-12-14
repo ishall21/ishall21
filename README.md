@@ -160,12 +160,8 @@
          <img src="https://images.credly.com/size/340x340/images/a850079a-75bb-41e1-adae-dedfabcf597c/Professional_Certificate_-_IBM_Cybersecurity_Analyst.png" width="125" height="125">
 
 </details>
-
 ### :octocat: Profile Views
-
 [![PRs Welcome](https://komarev.com/ghpvc/?username=ishall21&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/ishall21)
-
-
 ## <img src="https://github.com/ishall21/ishall21/blob/main/github-logo.png"/> Github Stats 
 <!---
 ![Ishall21 GitHub stats](https://github-readme-stats.vercel.app/api?username=ishall21&theme=default&show_icons=true)
