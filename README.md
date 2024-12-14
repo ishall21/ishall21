@@ -158,6 +158,12 @@
        <img src="https://images.credly.com/size/340x340/images/efbdc0d6-b46e-4e3c-8cf8-2314d8a5b971/GCC_badge_python_1000x1000.png" width="125" height="125">
         <img src="https://images.credly.com/size/340x340/images/ae2f5bae-b110-4ea1-8e26-77cf5f76c81e/GCC_badge_IT_Support_1000x1000.png" width="125" height="125">
          <img src="https://images.credly.com/size/340x340/images/a850079a-75bb-41e1-adae-dedfabcf597c/Professional_Certificate_-_IBM_Cybersecurity_Analyst.png" width="125" height="125">
+</details>
+
+<details>
+    <summary>🏆<b>My Achievements</b></summary><br/>
+    [![trophy](https://github-profile-trophy.vercel.app/?username=ishall21)](https://github.com/ishall21/github-profile-trophy)
+
 
 </details>
 
