@@ -123,7 +123,7 @@
 
 <!---##  **My Certifications **--->
 <details>
-    <summary>🏅<b>My Certifications</b></summary><br/>
+    <summary>🏅<b>Professional Certifications</b></summary><br/>
 
 - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/34007aac-270b-415b-9cf1-d244792efd3d/public_url)
 - [Microsoft Certified: Azure Administrator Associate](https://www.credly.com/badges/68f70689-6b23-4d5c-b5d5-8768b47c1a0c/public_url)
@@ -142,7 +142,7 @@
 
 <!---##  **My Achievements**--->
 <details>
-    <summary>🏆<b>My Achievements</b></summary><br/>
+    <summary>🏆<b>Trainings</b></summary><br/>
 
 - [AWS Academy Graduate - AWS Academy Cloud Architecting](https://www.credly.com/badges/b2d7d935-76d1-4136-ae19-88a1e693bac1/public_url)
 - [AWS Academy Graduate - AWS Academy Cloud Foundations](https://www.credly.com/badges/3c96b578-9ff7-4918-b361-10a81471db94/public_url)
