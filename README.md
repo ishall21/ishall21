@@ -198,5 +198,6 @@
  <p align ="centre"> Refresh page to load New joke</p>
  </details><br>
 
-## :hugs: Thank you so much for visiting my tiny space on [GitHub](https://github.com/ishall21)! :v: :heart: 💬
+<p>“He that dwelleth in the secret place of the most High shall abide under the shadow of the Almighty.”
+— Psalm 91:1 (KJV)</p>
  </div>
