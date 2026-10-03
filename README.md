@@ -66,6 +66,12 @@
   </picture>
 </a>
 
+<a href="https://github.com/ishall21/Spotify-Readme">
+  <img
+    src="https://larrymahumot.pythonanywhere.com"
+    alt="Current Spotify Song"
+  />
+</a>
 
 ## <img src="https://github.com/ishall21/ishall21/blob/main/computer-logo.png"/> My Skills
 <kbd>
