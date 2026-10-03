@@ -56,22 +56,23 @@
   <picture>
     <source
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      srcset="https://tthn.pythonanywhere.com/1EDPVGbyPKJPeGqATwXZvN?theme=light&scan=true&eq_color=rainbow"
+      srcset="https://larrymahumot.pythonanywhere.com/1EDPVGbyPKJPeGqATwXZvN?theme=light&scan=true&eq_color=rainbow"
     />
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://tthn.pythonanywhere.com/1EDPVGbyPKJPeGqATwXZvN?theme=dark&scan=true&eq_color=rainbow"
+      srcset="https://larrymahumot.pythonanywhere.com/1EDPVGbyPKJPeGqATwXZvN?theme=dark&scan=true&eq_color=rainbow"
     />
     <img alt="Current Spotify Song"><!-- https://github.com/ishall21/Spotify-Readme-->
   </picture>
 </a>
-
-<a href="https://github.com/ishall21/Spotify-Readme">
+<!--<a href="https://github.com/ishall21/Spotify-Readme">
   <img
     src="https://larrymahumot.pythonanywhere.com"
     alt="Current Spotify Song"
   />
 </a>
+
+-->
 
 ## <img src="https://github.com/ishall21/ishall21/blob/main/computer-logo.png"/> My Skills
 <kbd>
