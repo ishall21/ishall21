@@ -10,21 +10,13 @@
 
 > I'am a Network Engineer specializing in ISP Infrastructure, BGP Routing, Network Security, High Availability, Cisco & MikroTik Technologies, and Network Automation.
 
-- 👨‍💻 **Routing & Switching** — IPv4/IPv6, VLAN, OSPF, BGP, eBGP/iBGP
-- 🌐 **ISP Networking** — Multi-ISP, IX/Peering, Traffic Engineering, Redundancy & Failover
-- 🛡️ **Network Security** — Firewall, NAT, ACL, Hardening & Anti-Spoofing
-- 🔗 **Cisco & MikroTik** — RouterOS, Routing, Switching & Network Implementation
-- 📡 **NOC Operations** — Monitoring, Troubleshooting, Incident Response & Performance
-- 🖥️ **Linux & Automation** — Linux, Python, APIs & Network Automation
-- ☁️ **Cloud & Infrastructure** — Cloud Technologies, Optimization & Security
-
-- 🏆 **Professional Portfolio:**
-- 🌐 https://ishall21.github.io
-
-- 🏅 **Professional Certifications:**
-- 📜 View my certifications and credentials on [Credly](https://www.credly.com/users/larrymahumot)
-
-
+- 🎯 Currently working on **networking, security, routing, switching, and redundancy solutions with Cisco and MikroTik technologies.**
+- 👨‍💻 Passionate about optimizing systems and networks for high availability and performance.
+- 🔍 I specialize in troubleshooting, monitoring, and maintaining enterprise-grade networks and Linux servers.
+- 💡 Always learning, experimenting, and automating solutions to improve system efficiency and reliability.
+- 🔗 Currently focused on cloud technologies, automation scripting, and security best practices.
+- 🏆 My Portfolio 🌐**https://ishall21.github.io**
+- 🏅 View my certifications and credentials on 📜[Credly](https://www.credly.com/users/larrymahumot)
 ## 🎧 Spotify Playing
 
 [![Top 50 Philippines](https://img.shields.io/badge/Top%2050%20Philippines-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZEVXbNBz9cRCSFkY) [![Top 2021](https://img.shields.io/badge/Top%20%202021-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/06S64oWn7uGnfGrwjh5IWb) [![Love Song & Chill](https://img.shields.io/badge/Love%20Song%20&%20Chill-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/4QuJ2DbcTe7R8lzqfNXz7v) [![Hot Hits Philippines](https://img.shields.io/badge/Hot%20Hits%20Philippines-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1DXcZQSjptOQtk)
