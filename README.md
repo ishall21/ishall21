@@ -22,6 +22,7 @@
 ## 🎧 Spotify Playing
 
 [![Spotify - Top 50 Philippines](https://img.shields.io/badge/Spotify-Top%2050%20Philippines-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZEVXbNBz9cRCSFkY)
+[![Spotify Playlist](https://img.shields.io/badge/Spotify-My%20Playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/2PvZKuj3e0FPqDHNUCZCSv?si=wnDNyZSuR2ej12F5hwMezg)
 
 ## <img src="https://github.com/ishall21/ishall21/blob/main/computer-logo.png"/> My Skills
 <kbd>
