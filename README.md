@@ -24,6 +24,7 @@
 [![Spotify - Top 50 Philippines](https://img.shields.io/badge/Spotify-Top%2050%20Philippines-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZEVXbNBz9cRCSFkY)
 [![Spotify Playlist](https://img.shields.io/badge/Spotify-My%20Playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/2PvZKuj3e0FPqDHNUCZCSv?si=wnDNyZSuR2ej12F5hwMezg)
 [![Spotify - Listen Now](https://img.shields.io/badge/Spotify-Listen%20Now-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/5o2eSRoGbk6iPs8AKDWud7?si=d5445f832fa841a3)
+[![Spotify](./assets/spotify-badge.svg)](https://open.spotify.com/track/4w47S36wQGBhGg073q3nt7)
 
 ## <img src="https://github.com/ishall21/ishall21/blob/main/computer-logo.png"/> My Skills
 <kbd>
