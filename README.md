@@ -10,7 +10,7 @@
 
 > I'am a Network Engineer specializing in ISP Infrastructure, BGP Routing, Network Security, High Availability, Cisco & MikroTik Technologies, and Network Automation.
 
-- 🎯 Currently working on **networking, security, routing, switching, and redundancy solutions with Cisco and MikroTik technologies.**
+- 🎯 Routing & Switching — IPv4/IPv6, VLAN, Layer 2/3, OSPF, BGP, eBGP & iBGP
 - 👨‍💻 Passionate about optimizing systems and networks for high availability and performance.
 - 🔍 I specialize in troubleshooting, monitoring, and maintaining enterprise-grade networks and Linux servers.
 - 💡 Always learning, experimenting, and automating solutions to improve system efficiency and reliability.
