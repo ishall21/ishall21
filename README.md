@@ -19,6 +19,14 @@
 - 🤖 Automation & Scripting — Python, API integrations, monitoring automation and operational
 - 🏆 My Portfolio 🌐**https://ishall21.github.io**
 - 🏅 View my certifications and credentials on 📜[Credly](https://www.credly.com/users/larrymahumot)
+
+
+<img
+  width="100%"
+  alt="Rainbow"
+  src="Images/Miscellaneous/Rainbow.gif"
+/>
+
 ## 🎧 Spotify Playing
 
 <!---
