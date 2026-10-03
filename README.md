@@ -26,6 +26,32 @@
 [![Spotify - Listen Now](https://img.shields.io/badge/Spotify-Listen%20Now-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/5o2eSRoGbk6iPs8AKDWud7?si=d5445f832fa841a3)
 [![Spotify](./assets/spotify-badge.svg)](https://open.spotify.com/track/4w47S36wQGBhGg073q3nt7)
 
+
+<div align="center">
+
+<a href="https://open.spotify.com/playlist/37i9dQZEVXbNBz9cRCSFkY">
+  <img
+    src="https://img.shields.io/badge/Spotify-Top%2050%20Philippines-1DB954?style=for-the-badge&logo=spotify&logoColor=white"
+    alt="Spotify Top 50 Philippines"
+  />
+</a>
+
+<a href="https://open.spotify.com/playlist/2PvZKuj3e0FPqDHNUCZCSv">
+  <img
+    src="https://img.shields.io/badge/Spotify-My%20Playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white"
+    alt="Spotify My Playlist"
+  />
+</a>
+
+<a href="https://open.spotify.com/track/5o2eSRoGbk6iPs8AKDWud7">
+  <img
+    src="https://img.shields.io/badge/Spotify-Listen%20Now-1DB954?style=for-the-badge&logo=spotify&logoColor=white"
+    alt="Listen on Spotify"
+  />
+</a>
+
+</div>
+
 ## <img src="https://github.com/ishall21/ishall21/blob/main/computer-logo.png"/> My Skills
 <kbd>
    <kbd>Languages</kbd>
