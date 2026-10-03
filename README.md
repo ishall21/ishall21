@@ -28,6 +28,8 @@
 
 [![Spotify](https://spotify-now-playing-1.vercel.app/api/spotify-playing)](https://open.spotify.com/user/21yk3oaoukqj62nfwxwhv26fq)
 
+[![Spotify - Top 50 Philippines](https://img.shields.io/badge/Spotify-Top%2050%20Philippines-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZEVXbNBz9cRCSFkY)
+
 ## <img src="https://github.com/ishall21/ishall21/blob/main/computer-logo.png"/> My Skills
 <kbd>
    <kbd>Languages</kbd>
