@@ -28,21 +28,6 @@
 [![Spotify](./assets/spotify-badge.svg)](https://open.spotify.com/track/4w47S36wQGBhGg073q3nt7)
 
 --->
-
-<a href="https://github.com/ishall21/Spotify-Readme">
-  <picture>
-    <source
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      srcset="https://tthn.pythonanywhere.com/1EDPVGbyPKJPeGqATwXZvN?theme=light&scan=true&eq_color=rainbow"
-    />
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://tthn.pythonanywhere.com/1EDPVGbyPKJPeGqATwXZvN?theme=dark&scan=true&eq_color=rainbow"
-    />
-    <img alt="Current Spotify Song"><!-- https://github.com/ishall21/Spotify-Readme-->
-  </picture>
-</a>
-
 <div align="left">
 
 <a href="https://open.spotify.com/playlist/37i9dQZEVXbNBz9cRCSFkY">
@@ -65,8 +50,22 @@
     alt="Listen on Spotify"
   />
 </a>
-
 </div>
+
+<a href="https://github.com/ishall21/Spotify-Readme">
+  <picture>
+    <source
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      srcset="https://tthn.pythonanywhere.com/1EDPVGbyPKJPeGqATwXZvN?theme=light&scan=true&eq_color=rainbow"
+    />
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://tthn.pythonanywhere.com/1EDPVGbyPKJPeGqATwXZvN?theme=dark&scan=true&eq_color=rainbow"
+    />
+    <img alt="Current Spotify Song"><!-- https://github.com/ishall21/Spotify-Readme-->
+  </picture>
+</a>
+
 
 ## <img src="https://github.com/ishall21/ishall21/blob/main/computer-logo.png"/> My Skills
 <kbd>
