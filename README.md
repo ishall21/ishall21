@@ -29,6 +29,21 @@
 
 --->
 
+<a href="https://github.com/ishall21/Spotify-Readme">
+  <picture>
+  <!--
+    <source
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      srcset="https://tthn.pythonanywhere.com/1EDPVGbyPKJPeGqATwXZvN?theme=light&scan=true&eq_color=rainbow"
+    />
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://tthn.pythonanywhere.com/1EDPVGbyPKJPeGqATwXZvN?theme=dark&scan=true&eq_color=rainbow"
+    />
+    -->
+    <img alt="Current Spotify Song"> https://github.com/ishall21/Spotify-Readme
+  </picture>
+</a>
 
 <div align="left">
 
