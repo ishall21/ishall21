@@ -27,7 +27,7 @@
 [![Spotify](./assets/spotify-badge.svg)](https://open.spotify.com/track/4w47S36wQGBhGg073q3nt7)
 
 
-<div align="center">
+<div align="left">
 
 <a href="https://open.spotify.com/playlist/37i9dQZEVXbNBz9cRCSFkY">
   <img
