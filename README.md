@@ -24,7 +24,7 @@
 <img
   width="100%"
   alt="Rainbow"
-  src="Images/Miscellaneous/Rainbow.gif"
+  src="Images/Rainbow.gif"
 />
 
 ## 🎧 Spotify Playing
