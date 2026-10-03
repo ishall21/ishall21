@@ -198,13 +198,6 @@
          <img src="https://images.credly.com/size/340x340/images/a850079a-75bb-41e1-adae-dedfabcf597c/Professional_Certificate_-_IBM_Cybersecurity_Analyst.png" width="125" height="125">
 </details>
 
-<details>
-    <summary>🏆<b>GitHub Awards</b></summary><br/>
-
-[![Github Trophy](https://github-profile-trophy.vercel.app/?username=ishall21)](https://github.com/ishall21/github-profile-trophy)
-
-</details>
-
 ### :octocat: Profile Views
 
 [![PRs Welcome](https://komarev.com/ghpvc/?username=ishall21&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/ishall21)
