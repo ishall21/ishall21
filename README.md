@@ -10,19 +10,19 @@
 
 > I'am a Network Engineer specializing in ISP Infrastructure, BGP Routing, Network Security, High Availability, Cisco & MikroTik Technologies, and Network Automation.
 
-👨‍💻 Routing & Switching — IPv4/IPv6, VLAN, OSPF, BGP, eBGP/iBGP
-🌐 ISP Networking — Multi-ISP, IX/Peering, Traffic Engineering, Redundancy & Failover
-🛡️ Network Security — Firewall, NAT, ACL, Hardening & Anti-Spoofing
-🔗 Cisco & MikroTik — RouterOS, Routing, Switching & Network Implementation
-📡 NOC Operations — Monitoring, Troubleshooting, Incident Response & Performance
-🖥️ Linux & Automation — Linux, Python, APIs & Network Automation
-☁️ Cloud & Infrastructure — Cloud Technologies, Optimization & Security
+- 👨‍💻 Routing & Switching — IPv4/IPv6, VLAN, OSPF, BGP, eBGP/iBGP
+- 🌐 ISP Networking — Multi-ISP, IX/Peering, Traffic Engineering, Redundancy & Failover
+- 🛡️ Network Security — Firewall, NAT, ACL, Hardening & Anti-Spoofing
+- 🔗 Cisco & MikroTik — RouterOS, Routing, Switching & Network Implementation
+- 📡 NOC Operations — Monitoring, Troubleshooting, Incident Response & Performance
+- 🖥️ Linux & Automation — Linux, Python, APIs & Network Automation
+- ☁️ Cloud & Infrastructure — Cloud Technologies, Optimization & Security
 
-🏆 Professional Portfolio:
-🌐 https://ishall21.github.io
+- 🏆 Professional Portfolio:
+- 🌐 https://ishall21.github.io
 
-🏅 Professional Certifications:
-📜 View my certifications and credentials on [Credly](https://www.credly.com/users/larrymahumot)
+- 🏅 Professional Certifications:
+- 📜 View my certifications and credentials on [Credly](https://www.credly.com/users/larrymahumot)
 
 
 ## 🎧 Spotify Playing
