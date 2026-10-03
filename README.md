@@ -31,8 +31,6 @@
 
 [![Spotify Now Playing](https://mygithubreadme-cards.vercel.app/api/card/-IWu2PkgM8ek)](https://github.com/ishall21)
 
-[![spotify now-playing](https://mygithubreadme-cards.vercel.app/api/card/BGO9cA6tmgVg)](https://mygithubreadme-cards.vercel.app)
-
 ## 🎧 Spotify Playing
 
 <!---
@@ -212,7 +210,8 @@
          <img src="https://images.credly.com/size/340x340/images/a850079a-75bb-41e1-adae-dedfabcf597c/Professional_Certificate_-_IBM_Cybersecurity_Analyst.png" width="125" height="125">
 </details>
 
-[![github github-stats](https://mygithubreadme-cards.vercel.app/api/card/VU4jU6fofur6)](https://mygithubreadme-cards.vercel.app)
+
+[![github github-stats](https://mygithubreadme-cards.vercel.app/api/card/CZw1OOAzbdLv)](https://mygithubreadme-cards.vercel.app)
 
 ### :octocat: Profile Views
 
