@@ -31,6 +31,7 @@
 
 [![Spotify Now Playing](https://mygithubreadme-cards.vercel.app/api/card/-IWu2PkgM8ek)](https://github.com/ishall21)
 
+[![spotify now-playing](https://mygithubreadme-cards.vercel.app/api/card/BGO9cA6tmgVg)](https://mygithubreadme-cards.vercel.app)
 
 ## 🎧 Spotify Playing
 
