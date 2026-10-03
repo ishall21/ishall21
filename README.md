@@ -13,8 +13,10 @@
 - 🌐 Routing & Switching — IPv4/IPv6, VLAN, Layer 2/3, OSPF, BGP, eBGP & iBGP
 - 🔀 ISP & Network Infrastructure — Multi-ISP, upstream connectivity, IX/peering, traffic engineering, redundancy & failover
 - 🛡️ Network Security — Firewall, NAT, ACLs, traffic filtering, security hardening & anti-spoofing
-- 💡 Always learning, experimenting, and automating solutions to improve system efficiency and reliability.
-- 🔗 Currently focused on cloud technologies, automation scripting, and security best practices.
+- ⚙️ MikroTik & Cisco — RouterOS, enterprise routing, switching and network implementation
+- 📡 Network Operations — NOC monitoring, incident response, troubleshooting, performance monitoring & capacity planning
+- 🖥️ Linux & Infrastructure — Linux servers, services, system administration and infrastructure support
+- 🤖 Automation & Scripting — Python, API integrations, monitoring automation and operational
 - 🏆 My Portfolio 🌐**https://ishall21.github.io**
 - 🏅 View my certifications and credentials on 📜[Credly](https://www.credly.com/users/larrymahumot)
 ## 🎧 Spotify Playing
