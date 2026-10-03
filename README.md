@@ -27,6 +27,22 @@
   src="Images/Rainbow.gif"
 />
 
+### 🎧 Now Playing
+
+[![Spotify Now Playing](https://mygithubreadme-cards.vercel.app/api/card/-IWu2PkgM8ek)](https://github.com/ishall21)
+
+<h3 align="center">🎧 Now Playing</h3>
+
+<p align="center">
+  <a href="https://github.com/ishall21">
+    <img 
+      src="https://mygithubreadme-cards.vercel.app/api/card/-IWu2PkgM8ek" 
+      alt="Spotify Now Playing"
+    />
+  </a>
+</p>
+
+
 ## 🎧 Spotify Playing
 
 <!---
