@@ -21,13 +21,6 @@
 - 🏅 View my certifications and credentials on 📜[Credly](https://www.credly.com/users/larrymahumot)
 ## 🎧 Spotify Playing
 
-[![Top 50 Philippines](https://img.shields.io/badge/Top%2050%20Philippines-%231DB954.svg?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZEVXbNBz9cRCSFkY)
-[![Top 2021](https://img.shields.io/badge/Top%202021-%231DB954.svg?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/06S64oWn7uGnfGrwjh5IWb)
-[![Love Song & Chill](https://img.shields.io/badge/Love%20Song%20%26%20Chill-%231DB954.svg?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/4QuJ2DbcTe7R8lzqfNXz7v)
-[![Hot Hits Philippines](https://img.shields.io/badge/Hot%20Hits%20Philippines-%231DB954.svg?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1DXcZQSjptOQtk)
-
-[![Spotify](https://spotify-now-playing-1.vercel.app/api/spotify-playing)](https://open.spotify.com/user/21yk3oaoukqj62nfwxwhv26fq)
-
 [![Spotify - Top 50 Philippines](https://img.shields.io/badge/Spotify-Top%2050%20Philippines-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZEVXbNBz9cRCSFkY)
 
 ## <img src="https://github.com/ishall21/ishall21/blob/main/computer-logo.png"/> My Skills
