@@ -12,7 +12,7 @@
 
 - 🌐 Routing & Switching — IPv4/IPv6, VLAN, Layer 2/3, OSPF, BGP, eBGP & iBGP
 - 🔀 ISP & Network Infrastructure — Multi-ISP, upstream connectivity, IX/peering, traffic engineering, redundancy & failover
-- 🔍 I specialize in troubleshooting, monitoring, and maintaining enterprise-grade networks and Linux servers.
+- 🛡️ Network Security — Firewall, NAT, ACLs, traffic filtering, security hardening & anti-spoofing
 - 💡 Always learning, experimenting, and automating solutions to improve system efficiency and reliability.
 - 🔗 Currently focused on cloud technologies, automation scripting, and security best practices.
 - 🏆 My Portfolio 🌐**https://ishall21.github.io**
