@@ -216,9 +216,6 @@
 [![github github-stats](https://mygithubreadme-cards.vercel.app/api/card/CZw1OOAzbdLv)](https://mygithubreadme-cards.vercel.app)
 -->
 
-[![Profile Views](https://komarev.com/ghpvc/?username=ishall21&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/ishall21)
-[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-2ea44f?style=flat&logo=github)](https://github.com/ishall21)
-
 ## <img src="https://github.com/ishall21/ishall21/blob/main/github-logo.png"/> Github Stats 
 
 ![Ishall21 GitHub stats](https://github-readme-stats.vercel.app/api?username=ishall21&theme=default&show_icons=true)
