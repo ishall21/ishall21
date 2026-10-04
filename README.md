@@ -207,14 +207,19 @@
          <img src="https://images.credly.com/size/340x340/images/a850079a-75bb-41e1-adae-dedfabcf597c/Professional_Certificate_-_IBM_Cybersecurity_Analyst.png" width="125" height="125">
 </details>
 
-
-<!---
 ### :octocat: Profile Views
 
-[![PRs Welcome](https://komarev.com/ghpvc/?username=ishall21&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/ishall21) 
+<p align="left">
+  <img src="https://img.shields.io/github/followers/ishall21?label=FOLLOWERS&style=for-the-badge&color=181717&logo=github" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/ishall21?label=STARS&style=for-the-badge&color=yellow&logo=github" alt="Stars"/>
+</p>
 
-[![github github-stats](https://mygithubreadme-cards.vercel.app/api/card/CZw1OOAzbdLv)](https://mygithubreadme-cards.vercel.app)
--->
+<p align="left">
+  <img src="https://img.shields.io/badge/PRs-WELCOME-2ea44f?style=for-the-badge&logo=github" alt="PRs Welcome"/>
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00c853?style=for-the-badge&logo=statuspage&logoColor=white" alt="Online"/>
+  <img src="https://img.shields.io/badge/NOC-NETWORK%20ENGINEER-0e75b6?style=for-the-badge&logo=cisco&logoColor=white" alt="Network Engineer"/>
+</p>
+
 
 ## <img src="https://github.com/ishall21/ishall21/blob/main/github-logo.png"/> Github Stats 
 
@@ -239,19 +244,6 @@
             </tr>
         </table>
     </div>
-
-<h3 align="left">👨‍💻 Profile Overview</h3>
-
-<p align="left">
-  <img src="https://img.shields.io/github/followers/ishall21?label=FOLLOWERS&style=for-the-badge&color=181717&logo=github" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/ishall21?label=STARS&style=for-the-badge&color=yellow&logo=github" alt="Stars"/>
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/PRs-WELCOME-2ea44f?style=for-the-badge&logo=github" alt="PRs Welcome"/>
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-00c853?style=for-the-badge&logo=statuspage&logoColor=white" alt="Online"/>
-  <img src="https://img.shields.io/badge/NOC-NETWORK%20ENGINEER-0e75b6?style=for-the-badge&logo=cisco&logoColor=white" alt="Network Engineer"/>
-</p>
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
