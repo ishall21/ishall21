@@ -84,6 +84,16 @@
 -->
 
 ## <img src="https://github.com/ishall21/ishall21/blob/main/computer-logo.png"/> My Skills
+
+<kbd>
+  <kbd>Networking & Security</kbd>
+  <br><br>
+  <img width="30px" src="https://cdn.simpleicons.org/mikrotik" alt="MikroTik" />
+  <img width="30px" src="https://cdn.simpleicons.org/cisco" alt="Cisco" />
+  <img width="30px" src="https://cdn.simpleicons.org/fortinet" alt="FortiGate" />
+  <img width="30px" src="https://cdn.simpleicons.org/pfsense" alt="pfSense" />
+  <img width="30px" src="https://cdn.simpleicons.org/huawei" alt="Huawei" />
+</kbd>
 <kbd>
    <kbd>Languages</kbd>
     <br>
