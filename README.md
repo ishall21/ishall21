@@ -207,42 +207,6 @@
          <img src="https://images.credly.com/size/340x340/images/a850079a-75bb-41e1-adae-dedfabcf597c/Professional_Certificate_-_IBM_Cybersecurity_Analyst.png" width="125" height="125">
 </details>
 
-<h3 align="left">👨‍💻 Profile Overview</h3>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ishall21&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/ishall21?label=FOLLOWERS&style=for-the-badge&color=181717&logo=github" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/ishall21?label=STARS&style=for-the-badge&color=yellow&logo=github" alt="Stars"/>
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/PRs-WELCOME-2ea44f?style=for-the-badge&logo=github" alt="PRs Welcome"/>
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-00c853?style=for-the-badge&logo=statuspage&logoColor=white" alt="Online"/>
-  <img src="https://img.shields.io/badge/NOC-NETWORK%20ENGINEER-0e75b6?style=for-the-badge&logo=cisco&logoColor=white" alt="Network Engineer"/>
-</p>
-
-
-
-<h3 align="left">🌐 Network Operations</h3>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ishall21&label=VISITORS&color=0e75b6&style=flat-square" alt="Visitors"/>
-  <img src="https://img.shields.io/github/followers/ishall21?label=Followers&style=flat-square&logo=github" alt="Followers"/>
-</p>
-
-```text
-┌──────────────────────────────────────────────┐
-│              NETWORK ENGINEER                │
-├──────────────────────────────────────────────┤
-│ ● NOC Status       : ONLINE                  │
-│ ● Routing          : BGP / OSPF              │
-│ ● Platform         : MikroTik / Cisco        │
-│ ● Infrastructure   : ISP / FTTH / GPON       │
-│ ● Automation       : Python / Linux           │
-└──────────────────────────────────────────────┘
-
-
-
 
 <!---
 ### :octocat: Profile Views
