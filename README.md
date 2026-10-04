@@ -240,8 +240,6 @@
         </table>
     </div>
 
-<h3 align="left">👨‍💻 Profile Overview</h3>
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ishall21&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/ishall21?label=FOLLOWERS&style=for-the-badge&color=181717&logo=github" alt="Followers"/>
