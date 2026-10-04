@@ -285,13 +285,3 @@
 <p>“He that dwelleth in the secret place of the most High shall abide under the shadow of the Almighty.”
 — Psalm 91:1 (KJV)</p>
  </div>
-
-
-
-
-## 🛠️ Languages & Tools
-<p align="center">
-  <a href="https://github.com/ishall21">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ishall21&langs_count=8&layout=compact&theme=highcontrast&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
