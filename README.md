@@ -245,11 +245,6 @@
         </table>
     </div>
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{ishall21}/count.svg" /></p> 
-<br></div>
-
 <p align="center">
   <img
     src="https://api.visitorbadge.io/api/VisitorHit?user=ishall21&label=VISITORS&labelColor=%23000000&countColor=%230e75b6"
