@@ -232,6 +232,9 @@
 
 
 ## <img src="https://github.com/ishall21/ishall21/blob/main/github-logo.png"/> GitHub Stats & Trophies 
+![Ishall21 GitHub stats](https://github-readme-stats.vercel.app/api?username=ishall21&theme=default&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishall21&layout=compact)
+
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=ishall21&theme=monokai&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Larry Bert G. Mahumot's GitHub Trophies" />
 </p>
@@ -243,11 +246,6 @@
 <div align="center">
   <img src="profile-3d-city.svg" alt="3D City" width="100%" />
 </div>
-
-<!---
-![Ishall21 GitHub stats](https://github-readme-stats.vercel.app/api?username=ishall21&theme=default&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishall21&layout=compact)
---->
 
 <div align="center">
         <h2 align="center" class="section-heading"></h2>
