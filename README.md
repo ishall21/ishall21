@@ -233,12 +233,6 @@
 
 ## <img src="https://github.com/ishall21/ishall21/blob/main/github-logo.png"/> GitHub Stats & Trophies 
 <p align="center">
-  <a href="https://github.com/ishall21">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ishall21&cache_seconds=7200&layout=compact&theme=highcontrast&border_radius=10" alt="ishall21's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=ishall21&theme=highcontrast&hide_border=true&cache_seconds=86400" alt="ishall21's GitHub Streak" width="49%" />
-</p>
-<p align="center">
   <img src="https://trophy.ryglcloud.net/?username=ishall21&theme=highcontrast&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Larry Bert G. Mahumot's GitHub Trophies" />
 </p>
 <div align="center">
