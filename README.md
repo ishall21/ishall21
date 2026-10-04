@@ -233,8 +233,13 @@
 
 ## <img src="https://github.com/ishall21/ishall21/blob/main/github-logo.png"/> GitHub Stats & Trophies 
 <p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=ishall21&theme=monokai&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Larry Bert G. Mahumot's GitHub Trophies" />
+</p>
+<!---
+<p align="center">
   <img src="https://trophy.ryglcloud.net/?username=ishall21&theme=highcontrast&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Larry Bert G. Mahumot's GitHub Trophies" />
 </p>
+--->
 <div align="center">
   <img src="profile-3d-city.svg" alt="3D City" width="100%" />
 </div>
