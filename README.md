@@ -207,8 +207,8 @@
          <img src="https://images.credly.com/size/340x340/images/a850079a-75bb-41e1-adae-dedfabcf597c/Professional_Certificate_-_IBM_Cybersecurity_Analyst.png" width="125" height="125">
 </details>
 
-
-[![github github-stats](https://mygithubreadme-cards.vercel.app/api/card/CZw1OOAzbdLv)](https://mygithubreadme-cards.vercel.app)
+<!---
+[![github github-stats](https://mygithubreadme-cards.vercel.app/api/card/CZw1OOAzbdLv)](https://mygithubreadme-cards.vercel.app)--->
 
 ### :octocat: Profile Views
 
