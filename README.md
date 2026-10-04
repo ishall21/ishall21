@@ -247,10 +247,11 @@
 <div align="center">
   <img src="profile-3d-city.svg" alt="3D City" width="100%" />
 </div>
+
 <!---
 ![Ishall21 GitHub stats](https://github-readme-stats.vercel.app/api?username=ishall21&theme=default&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishall21&layout=compact)
-
+--->
 
 <div align="center">
         <h2 align="center" class="section-heading"></h2>
@@ -270,7 +271,7 @@
             </tr>
         </table>
     </div>
---->
+
 <p align="center">
   <img
     src="https://api.visitorbadge.io/api/VisitorHit?user=ishall21&label=VISITORS&labelColor=%23000000&countColor=%230e75b6"
