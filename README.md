@@ -207,13 +207,6 @@
          <img src="https://images.credly.com/size/340x340/images/a850079a-75bb-41e1-adae-dedfabcf597c/Professional_Certificate_-_IBM_Cybersecurity_Analyst.png" width="125" height="125">
 </details>
 
-<h3 align="left">🌐 Network Operations</h3>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ishall21&label=VISITORS&color=0e75b6&style=flat-square" alt="Visitors"/>
-  <img src="https://img.shields.io/github/followers/ishall21?label=Followers&style=flat-square&logo=github" alt="Followers"/>
-</p>
-
 <h3 align="left">👨‍💻 Profile Overview</h3>
 
 <p align="left">
@@ -228,6 +221,15 @@
   <img src="https://img.shields.io/badge/NOC-NETWORK%20ENGINEER-0e75b6?style=for-the-badge&logo=cisco&logoColor=white" alt="Network Engineer"/>
 </p>
 
+
+
+<h3 align="left">🌐 Network Operations</h3>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ishall21&label=VISITORS&color=0e75b6&style=flat-square" alt="Visitors"/>
+  <img src="https://img.shields.io/github/followers/ishall21?label=Followers&style=flat-square&logo=github" alt="Followers"/>
+</p>
+
 ```text
 ┌──────────────────────────────────────────────┐
 │              NETWORK ENGINEER                │
@@ -239,12 +241,16 @@
 │ ● Automation       : Python / Linux           │
 └──────────────────────────────────────────────┘
 
-<!---
-[![github github-stats](https://mygithubreadme-cards.vercel.app/api/card/CZw1OOAzbdLv)](https://mygithubreadme-cards.vercel.app)--->
 
+
+
+<!---
 ### :octocat: Profile Views
 
-[![PRs Welcome](https://komarev.com/ghpvc/?username=ishall21&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/ishall21)
+[![PRs Welcome](https://komarev.com/ghpvc/?username=ishall21&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/ishall21) 
+
+[![github github-stats](https://mygithubreadme-cards.vercel.app/api/card/CZw1OOAzbdLv)](https://mygithubreadme-cards.vercel.app)
+-->
 
 
 ## <img src="https://github.com/ishall21/ishall21/blob/main/github-logo.png"/> Github Stats 
