@@ -207,6 +207,24 @@
          <img src="https://images.credly.com/size/340x340/images/a850079a-75bb-41e1-adae-dedfabcf597c/Professional_Certificate_-_IBM_Cybersecurity_Analyst.png" width="125" height="125">
 </details>
 
+<h3 align="left">🌐 Network Operations</h3>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ishall21&label=VISITORS&color=0e75b6&style=flat-square" alt="Visitors"/>
+  <img src="https://img.shields.io/github/followers/ishall21?label=Followers&style=flat-square&logo=github" alt="Followers"/>
+</p>
+
+```text
+┌──────────────────────────────────────────────┐
+│              NETWORK ENGINEER                │
+├──────────────────────────────────────────────┤
+│ ● NOC Status       : ONLINE                  │
+│ ● Routing          : BGP / OSPF              │
+│ ● Platform         : MikroTik / Cisco        │
+│ ● Infrastructure   : ISP / FTTH / GPON       │
+│ ● Automation       : Python / Linux           │
+└──────────────────────────────────────────────┘
+
 <!---
 [![github github-stats](https://mygithubreadme-cards.vercel.app/api/card/CZw1OOAzbdLv)](https://mygithubreadme-cards.vercel.app)--->
 
