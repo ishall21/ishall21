@@ -232,9 +232,25 @@
 
 
 ## <img src="https://github.com/ishall21/ishall21/blob/main/github-logo.png"/> Github Stats 
-
+<p align="center">
+  <a href="https://github.com/ishall21">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ishall21&cache_seconds=7200&layout=compact&theme=highcontrast&border_radius=10" alt="ishall21's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=ishall21&theme=highcontrast&hide_border=true&cache_seconds=86400" alt="ishall21's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=ishall21&theme=highcontrast&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Larry Bert G. Mahumot's GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=ishall21&theme=highcontrast&radius=10" alt="ishall21's Activity Graph" />
+</p>
+<div align="center">
+  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
+</div>
+<!---
 ![Ishall21 GitHub stats](https://github-readme-stats.vercel.app/api?username=ishall21&theme=default&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishall21&layout=compact)
+
 
 <div align="center">
         <h2 align="center" class="section-heading"></h2>
@@ -254,7 +270,7 @@
             </tr>
         </table>
     </div>
-
+--->
 <p align="center">
   <img
     src="https://api.visitorbadge.io/api/VisitorHit?user=ishall21&label=VISITORS&labelColor=%23000000&countColor=%230e75b6"
@@ -278,22 +294,7 @@
 — Psalm 91:1 (KJV)</p>
  </div>
 
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/ishall21">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ishall21&cache_seconds=7200&layout=compact&theme=highcontrast&border_radius=10" alt="ishall21's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=ishall21&theme=highcontrast&hide_border=true&cache_seconds=86400" alt="ishall21's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=ishall21&theme=highcontrast&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Larry Bert G. Mahumot's GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=ishall21&theme=highcontrast&radius=10" alt="ishall21's Activity Graph" />
-</p>
-<div align="center">
-  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
-</div>
+
 
 
 ## 🛠️ Languages & Tools
